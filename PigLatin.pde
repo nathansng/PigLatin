@@ -6,6 +6,9 @@ public void setup() {
 	for (int i = 0 ; i < lines.length; i++) {
 	  System.out.println(pigLatin(lines[i]));
 	}
+
+	String hymn1 = "With heads bared we stand,";
+	//String hymn2 = 
 }
 
 public void draw() {
